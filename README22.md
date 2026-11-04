@@ -1,4 +1,3 @@
-Hasil Uji Studi Kasus 2 oleh GALANG FAIRUZ PUTRA B.
 | No | Jenis  | Dokumen | Juara/Dana |                          Output                             | Sesuai? |
 |----|--------|---------|------------|--------    --------  --------  --------  --------  -------- |---------|                                                 
 | 1  |MANDIRI |    5    |     2      |Dana penghargaan tidak diberikan.                            |    Y    |
